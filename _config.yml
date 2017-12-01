@@ -78,6 +78,6 @@ theme: hexo-theme-icarus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https
-  branch: [master]
-  message: [Site updated {{ now('YYYY-MM-DD HH:mm:ss') }}]
+  repo: https://github.com/ahmadbasir/ahmadbasir.github.io.git
+  branch: master
+  message: "Site updated"
