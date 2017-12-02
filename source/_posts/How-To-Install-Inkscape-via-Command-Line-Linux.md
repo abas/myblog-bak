@@ -11,6 +11,8 @@ thumbnail: /asset/inkscape.svg
 #### Yo, Sob! Kalian tau nggak apa itu [**Inkscape**](https://inkscape.org) ? :D 
 Yoi inkscape adalah sebuah **Free Open Source Software** yang berbasis **Vektor**, kata vektor disini bukan maksudnya kita belajar Fisika ya sob :D melainkan **Desain Vektor** hehe.. Mungkin sebagian banyak orang lebih mengenal yang namanya **C#rel** ya? sama dulu saya juga pengguna **C#rel** yang dulu tuh masih jaman-jamannya suka **NgeCr@ck** suka **Baj@k** sana sini hmm jadi sedih kalo inget masa-masa dulu :'D
 
+<!-- more -->
+
 > _Ingatlah sobat - sobat ku yang mulia, sesungguhnya semua perbuatan kita selalu diawasi dan dicatat dan akan diberi balasan suatu saat nanti, entah itu perbuatan baik ataupun perbuatan tidak baik._
 <p style="text-align:right">__-Abas___</p> 
 
