@@ -2,12 +2,14 @@
 title: How To Install Inkscape via Command Line | Linux
 date: 2017-12-01 19:33:20
 tags: [
-  'Pemrograman','Multimedia'
+  'Pemrograman','Multimedia','Cli'
 ]
-category: Linux
+category: [
+  'Linux','Desktop'
+]
 thumbnail: /asset/inkscape.svg
 ---
-<img src="/asset/inkscape.svg">
+![](/asset/inkscape.svg)
 #### Yo, Sob! Kalian tau nggak apa itu [**Inkscape**](https://inkscape.org) ? :D 
 Yoi inkscape adalah sebuah **Free Open Source Software** yang berbasis **Vektor**, kata vektor disini bukan maksudnya kita belajar Fisika ya sob :D melainkan **Desain Vektor** hehe.. Mungkin sebagian banyak orang lebih mengenal yang namanya **C#rel** ya? sama dulu saya juga pengguna **C#rel** yang dulu tuh masih jaman-jamannya suka **NgeCr@ck** suka **Baj@k** sana sini hmm jadi sedih kalo inget masa-masa dulu :'D
 
