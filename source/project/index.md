@@ -4,7 +4,7 @@ date: 2017-12-05 00:46:04
 comments: false
 ---
 ## __``SFD Point & Reedem System``__
-{% github ahmadbasir sfd2-17 c986638d645837f3c502f1d1e5bb3acf76db36a9 %}
+{% github abas sfd2-17 c986638d645837f3c502f1d1e5bb3acf76db36a9 %}
 ``` javascript
 {
   "project": {
@@ -28,7 +28,7 @@ comments: false
 ------
 <br/>
 ## __``Laravel OAuth``__
-{% github ahmadbasir OAuth-Laravel 447eebe915359c237536a723ec7814d8de286ed8 %}
+{% github abas OAuth-Laravel 447eebe915359c237536a723ec7814d8de286ed8 %}
 ``` javascript
   "project": {
     "name"      : "Laravel OAuth with Facebook & Google APIs",
@@ -50,7 +50,7 @@ comments: false
 ------
 <br/>
 ## __``Axavi Bot``__
-{% github ahmadbasir axavibot 2b98ba67cf593bcb2c1bd8635103b324804587fd %}
+{% github abas axavibot 2b98ba67cf593bcb2c1bd8635103b324804587fd %}
 ``` javascript
 {
   "project": {
@@ -73,7 +73,7 @@ comments: false
 ------
 <br/>
 ## __``Simple Kas Apps``__
-{% github ahmadbasir KasApps 5c448fd96b436ead8590496593d65d4aedb74d89 %}
+{% github abas KasApps 5c448fd96b436ead8590496593d65d4aedb74d89 %}
 ``` javascript
 {
   "project": {
