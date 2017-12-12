@@ -18,6 +18,7 @@
     "hexo-renderer-marked": "^0.3.0",
     "hexo-renderer-stylus": "^0.3.1",
     "hexo-server": "^0.2.0",
+    "hexo-service-worker": "^1.0.1",
     "hexo-tag-googlemaps": "^1.2.1",
     "hexo-tag-instagram": "^1.0.4"
   }
