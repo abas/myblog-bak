@@ -6,7 +6,7 @@ keywords: [
   'install','how to','git'
 ]
 date: 2017-12-09 12:49:17
-thumbnail: /asset/git-type.sh.png
+thumbnail: /asset/git.svg
 tags: ['Pemrograman','Cli']
 category: ['Cross-Platform ']
 ---
