@@ -77,4 +77,4 @@ sebenerrnya itu hanya untuk mengautentikasi apakah yang mengupload project ke re
 > ketika kita akan mengupload/(__PUSH__) project kita akan diminta autentikasi akun kita. dengan memasukkan __username__ dan __password__ tapi santai, saya jamin itu __Aman__
 
 ### Ok, sekian Tutorial hari ini :D kita lanjut ke selanjut nya yaitu
-> ## ``Basic Tutorial Git + Github`` [SOON]
+> ## [``Basic Tutorial Git + Github``](https://abas.github.io/2017/12/13/Tutorial-Git-dengan-GitHub) [SOON]
