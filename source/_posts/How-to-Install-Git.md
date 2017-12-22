@@ -59,7 +59,7 @@ Tampilah dari terminal __git bash__ tidak jauh berbeda dengan terminal di linux 
 hal yang pertama sebelum semuanya terjadi, mwehehe sobat harus set dulu identitas sobat kepada __git__ jangan khawatir, kita mulai dengan santai, buka __terminal__ jika sobat pake __Linux__ atau buka __git bash__ jika sobat pake windows. kemudian ketikan command
 ``` bash
   Abas_$> git config --global user.name ^username
-  Abas_$> git config --global user.name ^email
+  Abas_$> git config --global user.email ^email
 
   NOTE:
   ^username  : adalah username yang sobat punya di akun github
