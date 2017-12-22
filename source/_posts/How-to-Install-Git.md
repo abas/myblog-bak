@@ -61,6 +61,10 @@ hal yang pertama sebelum semuanya terjadi, mwehehe sobat harus set dulu identita
   Abas_$> git config --global user.name ^username
   Abas_$> git config --global user.email ^email
 
+  ex:
+  Abas_$> git config --global user.name "abas"
+  Abas_$> git config --global user.email "akhmadbasir5@gmail.com"
+
   NOTE:
   ^username  : adalah username yang sobat punya di akun github
   ^email     : adalah email yang terdaftar di akun github sobat
